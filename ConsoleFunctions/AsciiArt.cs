@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleFunctions
 {
-    public static class StringToAscii
+    public static class AsciiArt
     {
         const string charListFileName = "AsciiArt.txt";
         const string charMap = @"ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ.,!? 0123456789";
